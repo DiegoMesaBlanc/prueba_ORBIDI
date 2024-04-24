@@ -1,0 +1,17 @@
+@import './assets/themes/theme.css';
+@import '../node_modules/primeflex/primeflex.css';
+@import '../node_modules/primeicons/primeicons.css';
+/* @import '../node_modules/primereact/resources/themes/md-dark-deeppurple/theme.css'; */
+@import '../node_modules/primereact/resources/primereact.min.css';
+@import '../node_modules/primereact/resources/primereact.css';
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
